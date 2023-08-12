@@ -1,4 +1,4 @@
-### Hi there 👋
+### welcome
 
 <!--
 **JihuN126/JihuN126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
