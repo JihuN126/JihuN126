@@ -20,4 +20,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihuN126&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihuN126&layout=Demo&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihuN126&layout=&theme=nightowl)
