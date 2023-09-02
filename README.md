@@ -19,3 +19,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youk6767)](https://solved.ac/youk6767)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihuN126&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihuN126&layout=Demo&theme=nightowl)
