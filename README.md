@@ -1,4 +1,4 @@
-########### Soongsil Univ / 20201864 
+ Soongsil Univ / 20201864 
 
 
 
