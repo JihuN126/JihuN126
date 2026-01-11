@@ -2,7 +2,7 @@
 
 🎓 **Soongsil University**  
 Computer Science · 2020  
-📌 **Backend 중심 Full Stack Developer**
+📌 **Full Stack Developer**
 
 ---
 
