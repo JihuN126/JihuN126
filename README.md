@@ -2,7 +2,7 @@
 
 🎓 **Soongsil University**  
 Computer Science · 2020  
-📌 **Backend 중심 Full-Stack Developer**
+📌 **Backend 중심 Full Stack Developer**
 
 ---
 
@@ -10,7 +10,7 @@ Computer Science · 2020
 - Java 기반 백엔드와 JavaScript 기반 프론트엔드 개발을 중심으로 성장 중인 개발자입니다.
 - 알고리즘 문제 풀이를 통해 **문제 해결력과 코드 안정성**을 꾸준히 훈련하고 있습니다.
 - Spring / Spring Boot 기반 서버 설계 및 협업 프로젝트 경험이 있습니다.
-- 단순 구현보다 **구조, 유지보수성, 명확한 책임 분리**를 중요하게 생각합니다.
+- 운영환경 배포 및 클라우드 인프라 설계 경험도 보유하고 있습니다.
 
 ---
 
@@ -52,22 +52,37 @@ Computer Science · 2020
 
 ## 📌 Featured Projects
 
+---
+
 ### 🟢 MeetPick – Backend
 🔗 https://github.com/umc-meetpick/meetpick_backend  
 - Spring Boot 기반 백엔드 서버 개발
 - REST API 설계 및 데이터베이스 연동
 - 팀 협업을 통한 기능 구현 및 유지보수
 
+---
+
+### 🟡 KH MovieDiary – Full Stack (Org)
+🔗 https://github.com/orgs/KH-MovieDiary/repositories  
+- **영화 일기 웹 서비스** 팀 프로젝트
+- 백엔드 서버 및 프론트엔드 UI 통합 개발
+- 사용자 리뷰 / 데이터 저장 및 조회 기능 구현
+- 협업 환경에서 Git 및 이슈/PR 기반 개발 진행
+
+---
+
 ### 🔵 DNDN – Frontend
 🔗 https://github.com/NEXUS-DNDN/DNDN_Frontend  
-- React + TypeScript 기반 프론트엔드 개발
-- 컴포넌트 구조화 및 UI 구현
-- 팀 프로젝트 경험
+- React + JavaScript + Css기반 프론트엔드 개발
+- 컴포넌트 구조화 + UI 구현
+
+---
 
 ### 🟣 2025 Seasonthon Team 17
 🔗 https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_17_FE  
 - 시즌톤 해커톤 참가 프로젝트
-- 프론트엔드 개발 및 협업 경험
+- React + TypeScript + tailwind 기반 프론트엔드 개발
+
 
 ---
 
