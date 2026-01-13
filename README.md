@@ -78,7 +78,7 @@ Computer Science · 2020
 
 ---
 
-### 🟣 2025 Seasonthon Team 17
+### 🟣 Maeum ON - Frontend
 🔗 https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_17_FE  
 - 시즌톤 해커톤 참가 프로젝트
 - React + TypeScript + tailwind 기반 프론트엔드 개발
