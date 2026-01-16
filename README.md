@@ -64,6 +64,7 @@ Computer Science · 2020
 
 ### 🟡 KH MovieDiary – Full Stack (Org)
 🔗 https://github.com/orgs/KH-MovieDiary/repositories  
+🔗 http://3.39.230.181:8080/moviediary/
 - **영화 일기 웹 서비스** 팀 프로젝트
 - 백엔드 서버 및 프론트엔드 UI 통합 개발
 - 사용자 리뷰 / 데이터 저장 및 조회 기능 구현
