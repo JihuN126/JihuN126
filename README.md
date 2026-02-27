@@ -58,7 +58,7 @@ Computer Science · 2020
 🔗 https://github.com/umc-meetpick/meetpick_backend  
 - Spring Boot 기반 백엔드 서버 개발
 - REST API 설계 및 데이터베이스 연동
-- 팀 협업을 통한 기능 구현 및 유지보수
+- 카카오 로그인 / 회원가입 / 정보 등록 기능 구현
 
 ---
 
@@ -76,14 +76,22 @@ Computer Science · 2020
 🔗 https://github.com/NEXUS-DNDN/DNDN_Frontend  
 - React + JavaScript + Css기반 프론트엔드 개발
 - 컴포넌트 구조화 + UI 구현
-
+- 로그인/로그아웃 및 회원 정보 등록 외의 모든 기능 구현
 ---
 
 ### 🟣 Maeum ON - Frontend
 🔗 https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_17_FE  
 - 시즌톤 해커톤 참가 프로젝트
 - React + TypeScript + tailwind 기반 프론트엔드 개발
+- 일부 컴포넌트 제작 / 일기 관련 디자인 및 API 연동
 
+### 🌍 EasyEarth – Full Stack / Feature Lead
+🔗 https://github.com/Easy-Earth
+🔗 http://13.125.123.75:5173/
+- 환경 보호 실천을 위한 웹 서비스
+- 카카오 OAuth 2.0을 이용한 소셜 로그인 및 간편 회원가입 프로세스 구현
+- Naver Map API를 활용한 위치 기반 서비스 및 사용자 상호작용 지도 기능 개발
+- 사용자 경험을 위한 아이템 시스템(획득/조회) 로직 설계 및 백엔드 데이터 연동
 
 ---
 
