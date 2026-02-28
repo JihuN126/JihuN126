@@ -8,9 +8,8 @@ Computer Science · 2020
 
 ## 🧠 About Me
 - Java 기반 백엔드와 JavaScript 기반 프론트엔드 개발을 중심으로 성장 중인 개발자입니다.
-- 알고리즘 문제 풀이를 통해 **문제 해결력과 코드 안정성**을 꾸준히 훈련하고 있습니다.
 - Spring / Spring Boot 기반 서버 설계 및 협업 프로젝트 경험이 있습니다.
-- 운영환경 배포 및 클라우드 인프라 설계 경험도 보유하고 있습니다!
+- 운영환경 배포 및 클라우드 인프라 설계 경험도 보유하고 있습니다.
 
 ---
 
@@ -62,7 +61,7 @@ Computer Science · 2020
 
 ---
 
-### 🟡 KH MovieDiary – Full Stack (Org)
+### 🟡 KH MovieDiary – Full Stack (Lead) (JSP)
 🔗 https://github.com/orgs/KH-MovieDiary/repositories  
 🔗 http://3.39.230.181:8080/moviediary/
 - **영화 일기 웹 서비스** 팀 프로젝트
@@ -72,20 +71,20 @@ Computer Science · 2020
 
 ---
 
-### 🔵 DNDN – Frontend
+### 🔵 DNDN – Frontend (Lead)
 🔗 https://github.com/NEXUS-DNDN/DNDN_Frontend  
 - React + JavaScript + Css기반 프론트엔드 개발
 - 컴포넌트 구조화 + UI 구현
 - 로그인/로그아웃 및 회원 정보 등록 외의 모든 기능 구현
 ---
 
-### 🟣 Maeum ON - Frontend
+### 🟣 Maeum ON - Frontend 
 🔗 https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_17_FE  
 - 시즌톤 해커톤 참가 프로젝트
 - React + TypeScript + tailwind 기반 프론트엔드 개발
 - 일부 컴포넌트 제작 / 일기 관련 디자인 및 API 연동
 
-### 🌍 EasyEarth – Full Stack / Feature Lead
+### 🌍 EasyEarth – Full Stack (Lead)
 🔗 https://github.com/Easy-Earth
 🔗 http://13.125.123.75:5173/
 - 환경 보호 실천을 위한 웹 서비스
@@ -104,8 +103,6 @@ Computer Science · 2020
 </p>
 
 - Java로만 문제 풀이
-- 자료구조 / 탐색 / 그래프 / 시뮬레이션 중심
-- 꾸준한 문제 해결을 통한 사고력 강화
 
 ---
 
@@ -121,4 +118,3 @@ Computer Science · 2020
 
 ---
 
-⭐ **꾸준히 성장하는 개발자가 되기 위해 기록하고 학습합니다.**
