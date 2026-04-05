@@ -51,50 +51,168 @@ https://zippy-cattle.super.site/
 
 ---
 
-## 📌 Featured Projects
+
+# 📌 Projects
 
 ---
 
-### 🟢 MeetPick – Backend
-🔗 https://github.com/umc-meetpick/meetpick_backend  
-- Spring Boot 기반 백엔드 서버 개발
-- REST API 설계 및 데이터베이스 연동
-- 카카오 로그인 / 회원가입 / 정보 등록 기능 구현
+## 🌍 EasyEarth (Full Stack · Lead)
+
+🔗 https://github.com/Easy-Earth  
+🔗 http://13.125.123.75:5173/
+
+> 친환경 장소 탐색 및 사용자 참여형 환경 실천 웹 서비스
+
+**기간 / 팀**  
+2026.01 ~ 2026.02 
+
+**Tech**  
+Java, Spring Boot, Spring Security, MyBatis, React, Oracle, AWS EC2  
+
+**주요 기능**  
+- 지도 기반 친환경 장소 검색 및 상세 조회  
+- 카카오 OAuth2 로그인 및 JWT 인증  
+- 리뷰 CRUD, 아이템 시스템, 채팅 기능  
+
+**담당 역할**  
+- SeoulMap API 연동 및 상세 조회 시 DB 저장 구조 설계  
+- OAuth2 + JWT 인증 구조 구현  
+- 지도 UI 및 공통 컴포넌트 개발  
+- 아이템 랜덤 뽑기 로직 구현  
+
+**문제 해결**  
+- 테마 데이터 오류로 전체 검색이 실패하던 문제 → API 호출 분리 + 예외 처리 적용  
+
+**성과**  
+- API 장애 상황에서도 서비스 정상 동작하도록 안정성 확보  
+- 사용자 조회 기반 데이터 적재 구조로 DB 용량 및 조회 성능 최적화  
+- 트랜잭션 적용으로 아이템 지급 데이터 정합성 확보  
 
 ---
 
-### 🟡 KH MovieDiary – Full Stack (Lead) (JSP)
+## 🎬 Filmory (Full Stack · Lead)
+
 🔗 https://github.com/orgs/KH-MovieDiary/repositories  
 🔗 http://3.39.230.181:8080/moviediary/
-- **영화 일기 웹 서비스** 팀 프로젝트
-- 백엔드 서버 및 프론트엔드 UI 통합 개발
-- 사용자 리뷰 / 데이터 저장 및 조회 기능 구현
-- 협업 환경에서 Git 및 이슈/PR 기반 개발 진행
+
+> 영화 정보 조회 및 커뮤니티 기능 웹 서비스
+
+**기간 / 팀**  
+2025.11 ~ 2025.12
+
+**Tech**  
+Java, Spring MVC, MyBatis, JSP, jQuery, Oracle, MySQL, AWS EC2  
+
+**주요 기능**  
+- 영화 목록, 상세, 출연진 조회  
+- 검색, 정렬, 필터, 페이지네이션  
+- 게시글, 댓글, 좋아요 기능  
+
+**담당 역할**  
+- TMDB API 연동 및 데이터 가공 로직 구현  
+- 메인 페이지 SSR 구성  
+- TTL 기반 캐시 적용  
+
+**문제 해결**  
+- poster_path 누락으로 인한 UI 깨짐 및 반복 API 호출 문제 해결  
+
+**성과**  
+- 이미지 오류 100% 제거 및 UI 안정성 확보  
+- API 호출 약 40~60% 감소  
+- SSR 적용으로 초기 렌더링 성능 개선  
 
 ---
 
-### 🔵 DNDN – Frontend (Lead)
-🔗 https://github.com/NEXUS-DNDN/DNDN_Frontend  
-- React + JavaScript + Css기반 프론트엔드 개발
-- 컴포넌트 구조화 + UI 구현
-- 로그인/로그아웃 및 회원 정보 등록 외의 모든 기능 구현
+## 🧠 MaeumON (Frontend)
+
+🔗 https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_17_FE
+
+> 감정 기록 및 AI 피드백 기반 일기 서비스
+
+**기간 / 팀**  
+2025.08 ~ 2025.09 
+
+**Tech**  
+TypeScript, React, React Query, Tailwind, Vite  
+
+**주요 기능**  
+- 캘린더 기반 일기 관리  
+- AI 피드백 및 사용자 공감 기능  
+
+**담당 역할**  
+- 공통 입력 컴포넌트 설계  
+- 캘린더 기반 API 연동  
+- React Query 기반 상태 관리  
+
+**문제 해결**  
+- 날짜별 데이터 동기화 및 UI 반영 지연 문제 → QueryKey + Optimistic Update 적용  
+
+**성과**  
+- API 요청 약 50% 감소  
+- UI 반응 속도 즉시 반영 수준 개선  
+- 상태 일관성 확보 및 유지보수성 향상  
+
 ---
 
-### 🟣 Maeum ON - Frontend 
-🔗 https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_17_FE  
-- 시즌톤 해커톤 참가 프로젝트
-- React + TypeScript + tailwind 기반 프론트엔드 개발
-- 일부 컴포넌트 제작 / 일기 관련 디자인 및 API 연동
+## 🧩 DNDN (Frontend · Lead)
 
-### 🌍 EasyEarth – Full Stack (Lead)
-🔗 https://github.com/Easy-Earth
-🔗 http://13.125.123.75:5173/
-- 환경 보호 실천을 위한 웹 서비스
-- 카카오 OAuth 2.0을 이용한 소셜 로그인 및 간편 회원가입 프로세스 구현
-- Naver Map API를 활용한 위치 기반 서비스 및 사용자 상호작용 지도 기능 개발
-- 사용자 경험을 위한 아이템 시스템(획득/조회) 로직 설계 및 백엔드 데이터 연동
+🔗 https://github.com/NEXUS-DNDN/DNDN_Frontend
+
+> 맞춤형 복지 서비스 검색 및 신청 관리 웹 서비스
+
+**기간 / 팀**  
+2025.07 ~ 2025.08 
+
+**Tech**  
+JavaScript, React, Axios, Context API, HTML, CSS  
+
+**주요 기능**  
+- 복지 서비스 검색 및 필터링  
+- 즐겨찾기 및 신청 내역 관리  
+- 파일 업로드/다운로드  
+
+**담당 역할**  
+- 메인 서비스 리스트 및 카드 UI 구현  
+- 검색/필터/최근 검색어 기능 개발  
+- 파일 업로드 및 JWT 인증 연동  
+
+**문제 해결**  
+- 소셜 로그인 연동 오류 → API 구조 재검증 및 인증 흐름 분리  
+
+**성과**  
+- 사용자별 데이터 접근 제어 구현  
+- 검색 + 필터 기능으로 사용자 탐색 경험 개선  
 
 ---
+
+## 🤝 MeetPick (Backend)
+
+🔗 https://github.com/umc-meetpick/meetpick_backend
+
+> 대학생 대상 메이트 매칭 서비스
+
+**기간 / 팀**  
+2024.12 ~ 2025.02
+
+**Tech**  
+Java, Spring Boot, Spring Security, JWT, OAuth2, JPA, MySQL  
+
+**주요 기능**  
+- 카카오 OAuth2 로그인  
+- 대학교 이메일 인증  
+- 사용자 프로필 기반 매칭  
+
+**담당 역할**  
+- OAuth2 + JWT 인증 구조 설계  
+- UnivCert API 기반 이메일 인증 구현  
+- 회원가입 및 검증 로직 개발  
+
+**문제 해결**  
+- OAuth Token과 JWT 역할 충돌 문제 → 인증 구조 재설계  
+
+**성과**  
+- 로그인 인증 오류 100% 해결  
+- 인증 신뢰도 강화 및 비인가 사용자 차단  
 
 ## 🧩 Algorithm (Baekjoon)
 
