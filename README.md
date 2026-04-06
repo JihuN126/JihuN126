@@ -59,7 +59,7 @@ https://zippy-cattle.super.site/
 ## 🌍 EasyEarth (Full Stack · Lead)
 
 🔗 https://github.com/Easy-Earth  
-🔗 http://13.125.123.75:5173/
+🔗 http://13.125.123.75:5173/ (AWS 비용 부과 때문에 인스턴스 삭제했습니다.)
 
 > 친환경 장소 탐색 및 사용자 참여형 환경 실천 웹 서비스
 
@@ -93,7 +93,7 @@ Java, Spring Boot, Spring Security, MyBatis, React, Oracle, AWS EC2
 ## 🎬 Filmory (Full Stack · Lead)
 
 🔗 https://github.com/orgs/KH-MovieDiary/repositories  
-🔗 http://3.39.230.181:8080/moviediary/
+🔗 http://3.39.230.181:8080/moviediary/ (AWS 비용 부과 때문에 인스턴스 삭제했습니다.)
 
 > 영화 정보 조회 및 커뮤니티 기능 웹 서비스
 
